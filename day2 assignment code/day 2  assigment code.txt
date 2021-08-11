@@ -1,0 +1,52 @@
+
+    <html lang="en">
+<head>
+   <table border="1">
+       <thead>
+           <tr>
+               <th>Name</th>
+               <th>Subject</th>
+               <th>City</th>
+               <th>Mark</th>
+           </tr>
+       </thead>
+       <tbody>
+           <tr>
+               <td>Pradhi</td>
+               <td>maths</td>
+               <td>chennai</td>
+               <td>100</td>
+           </tr>
+           <tr>
+               <td>Subhi</td>
+               <td>science</td>
+               <td>Delhi</td>
+               <td>95</td>
+           </tr>
+           <tr>
+               <td>Chithra</td>
+               <td>English</td>
+               <td>Mumbai</td>
+               <td>91</td>
+           </tr>
+       </tbody>
+   </table>
+</head>
+<body>
+    
+</body>
+</html>
+
+<br></br>
+        <form> 
+            <input type="text"placeholder="Enter your name" required/>
+            Enter your date of birth<input type="date"required/>
+            <input type="text"placeholder="Enter your city name"required/>
+            Register number<input type="number"max="356"min="1"required/>
+            <button type="submit">submit</button>
+            <button type="reset">clear</button>
+
+        </form>
+    </body>
+</head>
+</html>
